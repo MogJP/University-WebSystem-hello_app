@@ -5,3 +5,7 @@ db/schema.rb linguist-generated
 
 # Mark any vendored files as having been vendored.
 vendor/* linguist-vendored
+
+# Dev Container (Linux) からバインドマウントで利用するため、テキストファイルは常に LF でチェックアウトする。
+# CRLF だと bin/* の shebang 行が壊れて実行できなくなる。
+* text=auto eol=lf
