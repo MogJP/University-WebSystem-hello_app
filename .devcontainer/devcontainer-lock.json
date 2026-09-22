@@ -1,0 +1,14 @@
+{
+  "features": {
+    "ghcr.io/devcontainers/features/github-cli:1": {
+      "version": "1.1.2",
+      "resolved": "ghcr.io/devcontainers/features/github-cli@sha256:7c409bf6316ffd85f04fd92fba85a744282639e603417dd4796409866bdb6805",
+      "integrity": "sha256:7c409bf6316ffd85f04fd92fba85a744282639e603417dd4796409866bdb6805"
+    },
+    "ghcr.io/rails/devcontainer/features/sqlite3": {
+      "version": "1.0.0",
+      "resolved": "ghcr.io/rails/devcontainer/features/sqlite3@sha256:fa4a12e87152158ed9b67acb819ad2e1bd78c7e3808ff08e786a76a677af2c58",
+      "integrity": "sha256:fa4a12e87152158ed9b67acb819ad2e1bd78c7e3808ff08e786a76a677af2c58"
+    }
+  }
+}
