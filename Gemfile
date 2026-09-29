@@ -4,7 +4,7 @@ source "https://rubygems.org"
 ruby file: ".ruby-version"
 
 # Rails 8.1 系の最新パッチを採用する（セキュリティ修正版を取り込めるよう上限は 8.2 未満に留める）
-gem "rails", "~> 8.1.3", ">= 8.1.3.1"
+gem "rails", "~> 8.1.4"
 # The modern asset pipeline for Rails [https://github.com/rails/propshaft]
 gem "propshaft"
 # Use sqlite3 as the database for Active Record
